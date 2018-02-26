@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestDependency">
+
+	<test name="TestDependency">
+		<classes>
+			<class name="com.testNG.dependency.DependsOnGroupsI">
+			</class>
+			<class name="com.testNG.dependency.DependsOnGroupsII">
+			</class>
+
+
+			<!-- <class name="com.testNG.dependency.DependsOnMethod"> </class> -->
+			<!-- <class name="com.testNG.dependency.TestDatabase"> </class> -->
+		</classes>
+
+		<packages>
+			<package name="com.testNG.timeOut.*"></package>
+		</packages>
+
+	</test>
+</suite>

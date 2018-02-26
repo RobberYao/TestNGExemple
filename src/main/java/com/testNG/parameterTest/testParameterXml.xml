@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testParameterXml">
+	<test name="testParameterXml">
+
+		<parameter name="param1" value="1" />
+		<parameter name="param2" value="2" />
+		<classes>
+			<class name="com.testNG.parameterTest.TestParameterXML" />
+		</classes>
+	</test>
+</suite>
