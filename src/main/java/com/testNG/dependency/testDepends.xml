@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="TestDependency">
-
 	<test name="TestDependency">
 		<classes>
 			<class name="com.testNG.dependency.DependsOnGroupsI">
